@@ -11,7 +11,7 @@
   
   	<properties>
 		<!-- spring版本号 -->
-		<spring.version>4.2.6.RELEASE</spring.version>
+		<spring.version>6.1.14</spring.version>
 		<!-- mybatis版本号 -->
 		<mybatis.version>3.3.0</mybatis.version>
 		<!-- log4j日志文件管理包版本 -->
@@ -218,7 +218,7 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-redis</artifactId>
-			<version>1.7.2.RELEASE</version>
+			<version>3.2.11</version>
 		</dependency>
 		
         <dependency>
